@@ -1,1 +1,1 @@
-# DCSwiftModuleA_Extension
+pod "DCSwiftModuleA_Extension"
